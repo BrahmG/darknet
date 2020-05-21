@@ -1,0 +1,5 @@
+classes= 7
+train  = cfg/malaria-train.txt
+valid  = cfg/malaria-test.txt
+names = data/malaria.names
+backup = /content/drive/My Drive/malaria_bounding_box
